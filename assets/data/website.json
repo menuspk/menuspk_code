@@ -1,0 +1,291 @@
+[
+    {
+        "category": "Dashboard",
+        "paths": [
+            {
+                "name": "Admin Dashboard",
+                "path": "./w/admin_dashboard",
+                "pic": "./assets/images/website/admin_dashboard.png"
+            }
+        ]
+    },
+    {
+        "category": "Animal",
+        "paths": [
+            {
+                "name": "Wildvine",
+                "path": "./w/animal_wildvine",
+                "pic": "./assets/images/website/animal_wildvine.png"
+            }
+        ]
+    },
+    {
+        "category": "Download Page",
+        "paths": [
+            {
+                "name": "EasyBank",
+                "path": "./w/donwload_easybank",
+                "pic": "./assets/images/website/donwload_easybank.png"
+            },
+            {
+                "name": "Mac Page",
+                "path": "./w/download_page_mac",
+                "pic": "./assets/images/website/download_page_mac.png"
+            }
+        ]
+    },
+    {
+        "category": "Blog",
+        "paths": [
+            {
+                "name": "Blogy",
+                "path": "./w/blog_blogy",
+                "pic": "./assets/images/website/blog_blogy.png"
+            }
+        ]
+    },
+    {
+        "category": "Dairy",
+        "paths": [
+            {
+                "name": "Dairy",
+                "path": "./w/dairy_website",
+                "pic": "./assets/images/website/dairy_website.png"
+            }
+        ]
+    },
+    {
+        "category": "Ecommerce",
+        "paths": [
+            {
+                "name": "Anon",
+                "path": "./w/ecommerce_anon",
+                "pic": "./assets/images/website/ecommerce_anon.png"
+            },
+            {
+                "name": "Casmart",
+                "path": "./w/ecommerce_casmart",
+                "pic": "./assets/images/website/ecommerce_casmart.png"
+            },
+            {
+                "name": "Footcap",
+                "path": "./w/ecommerce_footcap",
+                "pic": "./assets/images/website/ecommerce_footcap.png"
+            },
+            {
+                "name": "Loopstudio",
+                "path": "./w/ecommerce_loopstudio",
+                "pic": "./assets/images/website/ecommerce_loopstudio.png"
+            },
+            {
+                "name": "NFTC",
+                "path": "./w/ecommerce_nftc",
+                "pic": "./assets/images/website/ecommerce_nftc.png"
+            },
+            {
+                "name": "Rdiex",
+                "path": "./w/ecommerce_ridex",
+                "pic": "./assets/images/website/ecommerce_ridex.png"
+            },
+            {
+                "name": "Shoppie",
+                "path": "./w/ecommerce_shoppie",
+                "pic": "./assets/images/website/ecommerce_shoppie.png"
+            },
+            {
+                "name": "Cart Page",
+                "path": "./w/ecommerce_shopping_cart",
+                "pic": "./assets/images/website/ecommerce_shopping_cart.png"
+            }
+        ]
+    },
+    {
+        "category": "Education",
+        "paths": [
+            {
+                "name": "Educator",
+                "path": "./w/education_educator",
+                "pic": "./assets/images/website/education_educator.png"
+            },
+            {
+                "name": "Eduweb",
+                "path": "./w/education_eduweb",
+                "pic": "./assets/images/website/education_eduweb.png"
+            }
+        ]
+    },
+    {
+        "category": "Food",
+        "paths": [
+            {
+                "name": "Cook",
+                "path": "./w/food_cook",
+                "pic": "./assets/images/website/food_cook.png"
+            },
+            {
+                "name": "Crispy",
+                "path": "./w/food_crispy",
+                "pic": "./assets/images/website/food_crispy.png"
+            },
+            {
+                "name": "Grilli",
+                "path": "./w/food_grilli",
+                "pic": "./assets/images/website/food_grilli.png"
+            }
+        ]
+    },
+    {
+        "category": "Game",
+        "paths": [
+            {
+                "name": "Unigine",
+                "path": "./w/game_unigine",
+                "pic": "./assets/images/website/game_unigine.png"
+            },
+            {
+                "name": "Gamics",
+                "path": "./w/game_gamics",
+                "pic": "./assets/images/website/game_gamics.png"
+            }
+        ]
+    },
+    {
+        "category": "Movies",
+        "paths": [
+            {
+                "name": "Filmlane",
+                "path": "./w/movies_filmlane",
+                "pic": "./assets/images/website/movies_filmlane.png"
+            },
+            {
+                "name": "Tvflix",
+                "path": "./w/movies_tvflix",
+                "pic": "./assets/images/website/movies_tvflix.png"
+            },
+            {
+                "name": "Cineflix",
+                "path": "./w/movie_cineflix",
+                "pic": "./assets/images/website/movie_cineflix.png"
+            }
+        ]
+    },
+    {
+        "category": "Portfolio",
+        "paths": [
+            {
+                "name": "Bruce",
+                "path": "./w/portfolio_bruce",
+                "pic": "./assets/images/website/portfolio_bruce.png"
+            },
+            {
+                "name": "Devfolio",
+                "path": "./w/portfolio_devfolio",
+                "pic": "./assets/images/website/portfolio_devfolio.png"
+            },
+            {
+                "name": "Drew",
+                "path": "./w/portfolio_drew",
+                "pic": "./assets/images/website/portfolio_drew.png"
+            },
+            {
+                "name": "Ethan",
+                "path": "./w/portfolio_ethan",
+                "pic": "./assets/images/website/portfolio_ethan.png"
+            },
+            {
+                "name": "Jack",
+                "path": "./w/portfolio_jack",
+                "pic": "./assets/images/website/portfolio_jack.png"
+            },
+            {
+                "name": "Wren",
+                "path": "./w/portfolio_wren",
+                "pic": "./assets/images/website/portfolio_wren.png"
+            }
+        ]
+    },
+    {
+        "category": "UI",
+        "paths": [
+            {
+                "name": "Product Card",
+                "path": "./w/product_widget",
+                "pic": "./assets/images/website/product_widget.png"
+            }
+        ]
+    },
+    {
+        "category": "Real Estate",
+        "paths": [
+            {
+                "name": "Home Verse",
+                "path": "./w/real_estate_homeverse",
+                "pic": "./assets/images/website/real_estate_homeverse.png"
+            },
+            {
+                "name": "Realvine",
+                "path": "./w/real_estate_realvine",
+                "pic": "./assets/images/website/real_estate_realvine.png"
+            }
+        ]
+    },
+    {
+        "category": "Services",
+        "paths": [
+            {
+                "name": "Desinic",
+                "path": "./w/services_desinic",
+                "pic": "./assets/images/website/services_desinic.png"
+            },
+            {
+                "name": "Digital Media",
+                "path": "./w/services_digitalmedia",
+                "pic": "./assets/images/website/services_digitalmedia.png"
+            },
+            {
+                "name": "Picstock",
+                "path": "./w/services_pixstock",
+                "pic": "./assets/images/website/services_pixstock.png"
+            },
+            {
+                "name": "Techx",
+                "path": "./w/services_techx",
+                "pic": "./assets/images/website/services_techx.png"
+            }
+        ]
+    },
+    {
+        "category": "Transport",
+        "paths": [
+            {
+                "name": "Transpartio",
+                "path": "./w/transport_transportio",
+                "pic": "./assets/images/website/transport_transportio.png"
+            }
+        ]
+    },
+    {
+        "category": "Travalling",
+        "paths": [
+            {
+                "name": "Tourest",
+                "path": "./w/traveling_tourest",
+                "pic": "./assets/images/website/traveling_tourest.png"
+            },
+            {
+                "name": "Tourly",
+                "path": "./w/traveling_tourly",
+                "pic": "./assets/images/website/traveling_tourly.png"
+            },
+            {
+                "name": "Travelia",
+                "path": "./w/traveling_travelia",
+                "pic": "./assets/images/website/traveling_travelia.png"
+            }
+        ]
+    },
+    {
+        "category": "Speacial",
+        "paths": []
+    }
+]

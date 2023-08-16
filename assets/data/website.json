@@ -1,171 +1,46 @@
 [
     {
-        "category": "Dashboard",
-        "paths": [
-            {
-                "name": "Admin Dashboard",
-                "path": "./w/admin_dashboard",
-                "pic": "./assets/images/website/admin_dashboard.png"
-            }
-        ]
-    },
-    {
-        "category": "Animal",
-        "paths": [
-            {
-                "name": "Wildvine",
-                "path": "./w/animal_wildvine",
-                "pic": "./assets/images/website/animal_wildvine.png"
-            }
-        ]
-    },
-    {
-        "category": "Download Page",
-        "paths": [
-            {
-                "name": "EasyBank",
-                "path": "./w/donwload_easybank",
-                "pic": "./assets/images/website/donwload_easybank.png"
-            },
-            {
-                "name": "Mac Page",
-                "path": "./w/download_page_mac",
-                "pic": "./assets/images/website/download_page_mac.png"
-            }
-        ]
-    },
-    {
-        "category": "Blog",
-        "paths": [
-            {
-                "name": "Blogy",
-                "path": "./w/blog_blogy",
-                "pic": "./assets/images/website/blog_blogy.png"
-            }
-        ]
-    },
-    {
-        "category": "Dairy",
-        "paths": [
-            {
-                "name": "Dairy",
-                "path": "./w/dairy_website",
-                "pic": "./assets/images/website/dairy_website.png"
-            }
-        ]
-    },
-    {
         "category": "Ecommerce",
         "paths": [
             {
                 "name": "Anon",
                 "path": "./w/ecommerce_anon",
-                "pic": "./assets/images/website/ecommerce_anon.png"
+                "pic": "./assets/images/website/ecommerce_anon.jpeg"
             },
             {
                 "name": "Casmart",
                 "path": "./w/ecommerce_casmart",
-                "pic": "./assets/images/website/ecommerce_casmart.png"
+                "pic": "./assets/images/website/ecommerce_casmart.jpeg"
             },
             {
                 "name": "Footcap",
                 "path": "./w/ecommerce_footcap",
-                "pic": "./assets/images/website/ecommerce_footcap.png"
+                "pic": "./assets/images/website/ecommerce_footcap.jpeg"
             },
             {
                 "name": "Loopstudio",
                 "path": "./w/ecommerce_loopstudio",
-                "pic": "./assets/images/website/ecommerce_loopstudio.png"
+                "pic": "./assets/images/website/ecommerce_loopstudio.jpeg"
             },
             {
                 "name": "NFTC",
                 "path": "./w/ecommerce_nftc",
-                "pic": "./assets/images/website/ecommerce_nftc.png"
+                "pic": "./assets/images/website/ecommerce_nftc.jpeg"
             },
             {
                 "name": "Rdiex",
                 "path": "./w/ecommerce_ridex",
-                "pic": "./assets/images/website/ecommerce_ridex.png"
+                "pic": "./assets/images/website/ecommerce_ridex.jpeg"
             },
             {
                 "name": "Shoppie",
                 "path": "./w/ecommerce_shoppie",
-                "pic": "./assets/images/website/ecommerce_shoppie.png"
+                "pic": "./assets/images/website/ecommerce_shoppie.jpeg"
             },
             {
                 "name": "Cart Page",
                 "path": "./w/ecommerce_shopping_cart",
-                "pic": "./assets/images/website/ecommerce_shopping_cart.png"
-            }
-        ]
-    },
-    {
-        "category": "Education",
-        "paths": [
-            {
-                "name": "Educator",
-                "path": "./w/education_educator",
-                "pic": "./assets/images/website/education_educator.png"
-            },
-            {
-                "name": "Eduweb",
-                "path": "./w/education_eduweb",
-                "pic": "./assets/images/website/education_eduweb.png"
-            }
-        ]
-    },
-    {
-        "category": "Food",
-        "paths": [
-            {
-                "name": "Cook",
-                "path": "./w/food_cook",
-                "pic": "./assets/images/website/food_cook.png"
-            },
-            {
-                "name": "Crispy",
-                "path": "./w/food_crispy",
-                "pic": "./assets/images/website/food_crispy.png"
-            },
-            {
-                "name": "Grilli",
-                "path": "./w/food_grilli",
-                "pic": "./assets/images/website/food_grilli.png"
-            }
-        ]
-    },
-    {
-        "category": "Game",
-        "paths": [
-            {
-                "name": "Unigine",
-                "path": "./w/game_unigine",
-                "pic": "./assets/images/website/game_unigine.png"
-            },
-            {
-                "name": "Gamics",
-                "path": "./w/game_gamics",
-                "pic": "./assets/images/website/game_gamics.png"
-            }
-        ]
-    },
-    {
-        "category": "Movies",
-        "paths": [
-            {
-                "name": "Filmlane",
-                "path": "./w/movies_filmlane",
-                "pic": "./assets/images/website/movies_filmlane.png"
-            },
-            {
-                "name": "Tvflix",
-                "path": "./w/movies_tvflix",
-                "pic": "./assets/images/website/movies_tvflix.png"
-            },
-            {
-                "name": "Cineflix",
-                "path": "./w/movie_cineflix",
-                "pic": "./assets/images/website/movie_cineflix.png"
+                "pic": "./assets/images/website/ecommerce_shopping_cart.jpeg"
             }
         ]
     },
@@ -175,57 +50,32 @@
             {
                 "name": "Bruce",
                 "path": "./w/portfolio_bruce",
-                "pic": "./assets/images/website/portfolio_bruce.png"
+                "pic": "./assets/images/website/portfolio_bruce.jpeg"
             },
             {
                 "name": "Devfolio",
                 "path": "./w/portfolio_devfolio",
-                "pic": "./assets/images/website/portfolio_devfolio.png"
+                "pic": "./assets/images/website/portfolio_devfolio.jpeg"
             },
             {
                 "name": "Drew",
                 "path": "./w/portfolio_drew",
-                "pic": "./assets/images/website/portfolio_drew.png"
+                "pic": "./assets/images/website/portfolio_drew.jpeg"
             },
             {
                 "name": "Ethan",
                 "path": "./w/portfolio_ethan",
-                "pic": "./assets/images/website/portfolio_ethan.png"
+                "pic": "./assets/images/website/portfolio_ethan.jpeg"
             },
             {
                 "name": "Jack",
                 "path": "./w/portfolio_jack",
-                "pic": "./assets/images/website/portfolio_jack.png"
+                "pic": "./assets/images/website/portfolio_jack.jpeg"
             },
             {
                 "name": "Wren",
                 "path": "./w/portfolio_wren",
-                "pic": "./assets/images/website/portfolio_wren.png"
-            }
-        ]
-    },
-    {
-        "category": "UI",
-        "paths": [
-            {
-                "name": "Product Card",
-                "path": "./w/product_widget",
-                "pic": "./assets/images/website/product_widget.png"
-            }
-        ]
-    },
-    {
-        "category": "Real Estate",
-        "paths": [
-            {
-                "name": "Home Verse",
-                "path": "./w/real_estate_homeverse",
-                "pic": "./assets/images/website/real_estate_homeverse.png"
-            },
-            {
-                "name": "Realvine",
-                "path": "./w/real_estate_realvine",
-                "pic": "./assets/images/website/real_estate_realvine.png"
+                "pic": "./assets/images/website/portfolio_wren.jpeg"
             }
         ]
     },
@@ -235,22 +85,152 @@
             {
                 "name": "Desinic",
                 "path": "./w/services_desinic",
-                "pic": "./assets/images/website/services_desinic.png"
+                "pic": "./assets/images/website/services_desinic.jpeg"
             },
             {
                 "name": "Digital Media",
                 "path": "./w/services_digitalmedia",
-                "pic": "./assets/images/website/services_digitalmedia.png"
+                "pic": "./assets/images/website/services_digitalmedia.jpeg"
             },
             {
                 "name": "Picstock",
                 "path": "./w/services_pixstock",
-                "pic": "./assets/images/website/services_pixstock.png"
+                "pic": "./assets/images/website/services_pixstock.jpeg"
             },
             {
                 "name": "Techx",
                 "path": "./w/services_techx",
-                "pic": "./assets/images/website/services_techx.png"
+                "pic": "./assets/images/website/services_techx.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Food",
+        "paths": [
+            {
+                "name": "Cook",
+                "path": "./w/food_cook",
+                "pic": "./assets/images/website/food_cook.jpeg"
+            },
+            {
+                "name": "Crispy",
+                "path": "./w/food_crispy",
+                "pic": "./assets/images/website/food_crispy.jpeg"
+            },
+            {
+                "name": "Grilli",
+                "path": "./w/food_grilli",
+                "pic": "./assets/images/website/food_grilli.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Movies",
+        "paths": [
+            {
+                "name": "Filmlane",
+                "path": "./w/movies_filmlane",
+                "pic": "./assets/images/website/movies_filmlane.jpeg"
+            },
+            {
+                "name": "Tvflix",
+                "path": "./w/movies_tvflix",
+                "pic": "./assets/images/website/movies_tvflix.jpeg"
+            },
+            {
+                "name": "Cineflix",
+                "path": "./w/movies_cineflix",
+                "pic": "./assets/images/website/movies_cineflix.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Traveling",
+        "paths": [
+            {
+                "name": "Tourest",
+                "path": "./w/traveling_tourest",
+                "pic": "./assets/images/website/traveling_tourest.jpeg"
+            },
+            {
+                "name": "Tourly",
+                "path": "./w/traveling_tourly",
+                "pic": "./assets/images/website/traveling_tourly.jpeg"
+            },
+            {
+                "name": "Travelia",
+                "path": "./w/traveling_travelia",
+                "pic": "./assets/images/website/traveling_travelia.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Download Page",
+        "paths": [
+            {
+                "name": "EasyBank",
+                "path": "./w/donwload_easybank",
+                "pic": "./assets/images/website/donwload_easybank.jpeg"
+            },
+            {
+                "name": "Mac Page",
+                "path": "./w/download_page_mac",
+                "pic": "./assets/images/website/download_page_mac.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Education",
+        "paths": [
+            {
+                "name": "Educator",
+                "path": "./w/education_educator",
+                "pic": "./assets/images/website/education_educator.jpeg"
+            },
+            {
+                "name": "Eduweb",
+                "path": "./w/education_eduweb",
+                "pic": "./assets/images/website/education_eduweb.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Game",
+        "paths": [
+            {
+                "name": "Unigine",
+                "path": "./w/game_unigine",
+                "pic": "./assets/images/website/game_unigine.jpeg"
+            },
+            {
+                "name": "Gamics",
+                "path": "./w/game_gamics",
+                "pic": "./assets/images/website/game_gamics.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Real Estate",
+        "paths": [
+            {
+                "name": "Home Verse",
+                "path": "./w/real_estate_homeverse",
+                "pic": "./assets/images/website/real_estate_homeverse.jpeg"
+            },
+            {
+                "name": "Realvine",
+                "path": "./w/real_estate_realvine",
+                "pic": "./assets/images/website/real_estate_realvine.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "UI",
+        "paths": [
+            {
+                "name": "Product Card",
+                "path": "./w/product_widget",
+                "pic": "./assets/images/website/product_widget.jpeg"
             }
         ]
     },
@@ -260,32 +240,48 @@
             {
                 "name": "Transpartio",
                 "path": "./w/transport_transportio",
-                "pic": "./assets/images/website/transport_transportio.png"
+                "pic": "./assets/images/website/transport_transportio.jpeg"
             }
         ]
     },
     {
-        "category": "Travalling",
+        "category": "Dashboard",
         "paths": [
             {
-                "name": "Tourest",
-                "path": "./w/traveling_tourest",
-                "pic": "./assets/images/website/traveling_tourest.png"
-            },
-            {
-                "name": "Tourly",
-                "path": "./w/traveling_tourly",
-                "pic": "./assets/images/website/traveling_tourly.png"
-            },
-            {
-                "name": "Travelia",
-                "path": "./w/traveling_travelia",
-                "pic": "./assets/images/website/traveling_travelia.png"
+                "name": "Admin Dashboard",
+                "path": "./w/admin_dashboard",
+                "pic": "./assets/images/website/admin_dashboard.jpeg"
             }
         ]
     },
     {
-        "category": "Speacial",
-        "paths": []
+        "category": "Animal",
+        "paths": [
+            {
+                "name": "Wildvine",
+                "path": "./w/animal_wildvine",
+                "pic": "./assets/images/website/animal_wildvine.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Blog",
+        "paths": [
+            {
+                "name": "Blogy",
+                "path": "./w/blog_blogy",
+                "pic": "./assets/images/website/blog_blogy.jpeg"
+            }
+        ]
+    },
+    {
+        "category": "Dairy",
+        "paths": [
+            {
+                "name": "Dairy",
+                "path": "./w/dairy_website",
+                "pic": "./assets/images/website/dairy_website.jpeg"
+            }
+        ]
     }
 ]

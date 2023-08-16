@@ -7,7 +7,8 @@ fetch('./assets/data/website.json')
             const category = entry.category;
             const paths = entry.paths;
 
-            html += `<h2 class="h2 section-title" style="--fs-2: 4rem;">${category}</h2>\n`;
+            html += `<h2 class="h2 section-title" style="--fs-2: 4rem; margin-top: 30px; margin-bottom: 10px; color: #333300;">${category}</h2>\n`;
+
             html += '<ul class="service-list">\n';
 
             paths.forEach(path => {
@@ -29,4 +30,13 @@ fetch('./assets/data/website.json')
         });
 
         document.getElementById('dynamic-content').innerHTML = html;
+        
+        // Additional code to center-align cards
+        const serviceCards = document.querySelectorAll('.service-card');
+        serviceCards.forEach(card => {
+            const cardCount = paths.length;
+            if (cardCount < 3) {
+                card.style.margin = '0 auto';
+            }
+        });
     });

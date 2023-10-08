@@ -18,7 +18,7 @@ fetch('./assets/data/website.json')
                 html += `<img src="${path.pic}" width="728" height="344" loading="lazy" alt="${path.name}" class="w-100">\n`;
                 html += '</figure>\n';
                 html += '<div class="card-content">\n';
-                html += `<h3 class="h3"><a href="${path.path}/index.html" class="card-title">${path.name}</a></h3>\n`;
+                html += `<h3 class="h3"><a href="${path.path}" class="card-title">${path.name}</a></h3>\n`;
                 html += `<p class="card-text">${category} Website for your ${path.name.toLowerCase().replace(" ", "_")} shop.</p>\n`;
                 html += `<a href="${path.path}/index.html" class="btn-link"><span class="span">Visit Website</span></a>\n`;
                 html += '</div>\n';
